@@ -6,13 +6,6 @@
     <h1 align="center">COVID-19 Tracker</h1>
 </p>
 
-[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Github Followers](https://img.shields.io/github/followers/HariKulhari06?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/HariKulhari06/Covid-19-Tracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HariKulhari06/Covid-19-Tracker?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/HariKulhari06/Covid-19-Tracker?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/HariKulhari06/Covid-19-Tracker?style=social)
-
 ## ✨ Screenshots
 | Main Screen | Statistics |  Preventions |
 |:-:|:-:|:-:|
@@ -33,26 +26,6 @@ These instructions will get you a copy of the project up and running on your loc
 *   Android Studio 3.2+
 *   Java JDK
 
-### Installing
-Follow these steps if you want to get a local copy of the project on your machine.
-
-#### 1. Clone or fork the repository by running the command below	
-```
-git https://github.com/HariKulhari06/Covid-19-Tracker
-```
-
-#### 2. Import the project in AndroidStudio, and add API Key
-1.  In Android Studio, go to File -> New -> Import project
-2.  Follew the dialog wizard to choose the folder where you cloned the project and click on open.
-3.  Android Studio imports the projects and builds it for you
-
-
-## 🤝 How to Contribute
-1.  Fork it
-2.  Create your feature branch (git checkout -b my-new-feature)
-3.  Commit your changes (git commit -am 'Add some feature')
-4.  Push to the branch (git push origin my-new-feature)
-5.  Create new Pull Request
 
 ## 📃 Libraries used
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
